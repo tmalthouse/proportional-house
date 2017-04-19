@@ -2,6 +2,7 @@ import csv
 from state import *
 from representative import *
 import util
+import mapwriter
 
 def main():
     with open("../election_2016_data/data/house_general_election_2016.csv", "r") as house:
@@ -54,6 +55,22 @@ def main():
 
         print(state.check_prop())
     print("Total seats: D: {}, R: {}, I: {}".format(dem,rep,ind))
+
+    old_colors = {}
+    prop_colors = {}
+    for s in states:
+        state = states[s]
+        old_colors[s] = mapwriter.lean_to_color({p: state.rep_share(p) for p in list(util.Party)},
+                                                state.voteshare, state.delegation)
+
+        prop_colors[s] = mapwriter.lean_to_color({p: state.prop_rep[p]/(2*state.delegation) for p in list(util.Party)}, state.voteshare, state.delegation*2)
+
+    oldmap = mapwriter.MapWriter(old_colors)
+    oldmap.generate()
+    oldmap.write("old_map.svg")
+    prop_map = mapwriter.MapWriter(prop_colors)
+    prop_map.generate()
+    prop_map.write("prop_map.svg")
 
 
 if __name__=="__main__":

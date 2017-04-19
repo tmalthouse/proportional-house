@@ -36,10 +36,11 @@ class State(object):
     def calculate_prop(self):
         total_delegation = 2*self.delegation
         self.prop_rep = {party: self.party_count(party) for party in list(util.Party)}
+
         total = sum(self.prop_rep.values())
 
         entries = []
-        for n in range(1,self.delegation):
+        for n in range(1,self.delegation+2):
             for p in list(util.Party):
                 if (self.voteshare[p]>VOTE_THRESHOLD):
                     entries.append(((self.voteshare[p]*(1/n))/(self.prop_rep[p]+n), p))
