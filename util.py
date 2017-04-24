@@ -11,9 +11,9 @@ class Party(enum.Enum):
         return 'I'
 
 def party_str(pstr):
-    if pstr in ['republican', 'Republican', 'rep', 'GOP']:
+    if pstr.strip() in ['republican', 'Republican', 'rep', 'GOP', 'R', 'r']:
         return Party['GOP']
-    elif pstr in ['democrat', 'Democrat', 'dem', 'DEM']:
+    elif pstr.strip() in ['democrat', 'Democrat', 'dem', 'DEM', 'D', 'd']:
         return Party['DEM']
     else:
         return Party['OTHER']
