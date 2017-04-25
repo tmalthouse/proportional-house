@@ -26,6 +26,9 @@ class State(object):
                 share += rep_weight
         return share
 
+    def rep_shares(self):
+        return {p: self.rep_share(p) for p in list(util.Party)}
+
     def party_count(self, party):
         tot = 0
         for r in self.reps:
