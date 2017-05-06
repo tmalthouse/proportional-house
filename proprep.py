@@ -90,10 +90,10 @@ def main():
 
     oldmap = mapwriter.MapWriter(old_colors)
     oldmap.generate()
-    oldmap.write("{}_old_map.svg".format(year))
+    oldmap.write("out/{}_old_map.svg".format(year))
     prop_map = mapwriter.MapWriter(prop_colors)
     prop_map.generate()
-    prop_map.write("{}_prop_map.svg".format(year))
+    prop_map.write("out/{}_prop_map.svg".format(year))
 
     if (args.latex):
         header = [['\\textbf{State}', '\\multicolumn{3}{c}{\\textbf{Single Member Districts}}',
@@ -143,8 +143,8 @@ def main():
                                     YEAR_DATA[year]['results'])*100.0)]]
 
 
-        with open("{}_table.tex".format(year), "w") as tfile: tfile.write(latex.table(header, data, footer, 8))
-        os.system('pdflatex test.tex')
+        with open("out/{}_table.tex".format(year), "w") as tfile: tfile.write(latex.table(header, data, footer, 8))
+        os.system('pdflatex out/test.tex')
 
 def vote_badness(rep_shares, vote_shares):
     dem_diff = rep_shares[util.Party.DEM] - vote_shares[util.Party.DEM]
