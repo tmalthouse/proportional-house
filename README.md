@@ -14,8 +14,8 @@ Where `<year>` is the year you want to generate maps for (only 2012 and 2016 are
 
 This is an example of the program on the 2012 election. First, the existing misrepresentation map:
 
-![2012-old-map](out/2012_old_map.svg)
+![2012-old-map](out/2012_old_map.svg?raw=true)
 
 And then the proportional map:
 
-![2012-prop-map](out/2012_prop_map.svg)
+![2012-prop-map](out/2012_prop_map.svg?raw=true)
