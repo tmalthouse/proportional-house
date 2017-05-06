@@ -9,3 +9,13 @@ Note that, in both the original and proportional systems, smaller states tend to
 `./proprep.py <year> [--latex]`
 
 Where `<year>` is the year you want to generate maps for (only 2012 and 2016 are currently available), and `[--latex]` enables generation of a LaTeX table of results.
+
+##Example
+
+This is an example of the program on the 2012 election. First, the existing misrepresentation map:
+
+![2012-old-map](out/2012_old_map.svg)
+
+And then the proportional map:
+
+![2012-prop-map](out/2012_prop_map.svg)
