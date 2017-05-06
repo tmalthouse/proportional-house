@@ -34,7 +34,6 @@ def main():
                 except:
                     states[curState] = State(curState, 1)
                 rep = Representative(row['name'], util.party_str(row['individual_party']))
-                print("Added rep {} of {}".format(row['name'], curState))
                 states[curState].reps.append(rep)
 
 
@@ -148,8 +147,6 @@ def main():
         os.system('pdflatex test.tex')
 
 def vote_badness(rep_shares, vote_shares):
-    print(vote_shares)
-    print(rep_shares)
     dem_diff = rep_shares[util.Party.DEM] - vote_shares[util.Party.DEM]
     gop_diff = rep_shares[util.Party.GOP] - vote_shares[util.Party.GOP]
     return ((dem_diff**2/2 + gop_diff**2/2)**0.5)

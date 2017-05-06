@@ -1,0 +1,436 @@
+1,STATE ABBREVIATION,state,D,(I),CANDIDATE NAME (First),CANDIDATE NAME (Last),,name,individual_party,is_winner
+3,AL,Alabama,1,(I),Jo,Bonner,1,"Bonner, Jo",R,TRUE
+11,AL,Alabama,2,(I),Martha,Roby,1,"Roby, Martha",R,TRUE
+16,AL,Alabama,3,(I),Mike,Rogers,2,"Rogers, Mike",R,TRUE
+21,AL,Alabama,4,(I),Robert,Aderholt,1,"Aderholt, Robert",R,TRUE
+28,AL,Alabama,5,(I),Mo,Brooks,1,"Brooks, Mo",R,TRUE
+35,AL,Alabama,6,(I),Spencer,Bachus,1,"Bachus, Spencer",R,TRUE
+47,AL,Alabama,7,(I),Terri A.,Sewell,1,"Sewell, Terri A.",D,TRUE
+56,AK,Alaska,0,(I),Don,Young,1,"Young, Don",R,TRUE
+84,AZ,Arizona,1,,Ann,Kirkpatrick,1,"Kirkpatrick, Ann",D,TRUE
+96,AZ,Arizona,2,(I),Ron ,Barber,1,"Barber, Ron ",D,TRUE
+106,AZ,Arizona,3,(I),Raúl M.,Grijalva,1,"Grijalva, Raúl M.",D,TRUE
+117,AZ,Arizona,4,(I),Raul,Gosar,1,"Gosar, Raul",R,TRUE
+130,AZ,Arizona,5,,Matt,Salmon,1,"Salmon, Matt",R,TRUE
+137,AZ,Arizona,6,(I),David,Schweikert,1,"Schweikert, David",R,TRUE
+150,AZ,Arizona,7,(I),Ed,Pastor,1,"Pastor, Ed",D,TRUE
+159,AZ,Arizona,8,(I),Trent ,Franks,1,"Franks, Trent ",R,TRUE
+169,AZ,Arizona,9,,Kyrsten,Sinema,1,"Sinema, Kyrsten",D,TRUE
+203,AR,Arkansas,1,(I),Rick ,Crawford,1,"Crawford, Rick ",R,TRUE
+212,AR,Arkansas,2,(I),Tim ,Griffin,1,"Griffin, Tim ",R,TRUE
+218,AR,Arkansas,3,(I),Steve,Womack,1,"Womack, Steve",R,TRUE
+224,AR,Arkansas,4,,Tom,Cotton,1,"Cotton, Tom",R,TRUE
+240,CA,California,1,,Doug,La Malfa,1,"La Malfa, Doug",R,TRUE
+250,CA,California,2,,Jared ,Huffman,1,"Huffman, Jared ",D,TRUE
+264,CA,California,3,(I),John ,Garamendi,1,"Garamendi, John ",D,TRUE
+271,CA,California,4,(I),Tom,McClintock,1,"McClintock, Tom",R,TRUE
+275,CA,California,5,(I),Mike ,Thompson,1,"Thompson, Mike ",D,TRUE
+280,CA,California,6,(I),Doris ,Matsui,1,"Matsui, Doris ",D,TRUE
+285,CA,California,7,,Ami ,Bera,1,"Bera, Ami ",D,TRUE
+291,CA,California,8,,Paul ,Cook,1,"Cook, Paul ",R,TRUE
+306,CA,California,9,(I),Jerry ,McNerney,1,"McNerney, Jerry ",D,TRUE
+311,CA,California,10,(I),Jeff,Denham,1,"Denham, Jeff",R,TRUE
+318,CA,California,11,(I),George ,Miller,1,"Miller, George ",D,TRUE
+324,CA,California,12,(I),Nancy ,Pelosi,1,"Pelosi, Nancy ",D,TRUE
+332,CA,California,13,(I),Barbara ,Lee,1,"Lee, Barbara ",D,TRUE
+337,CA,California,14,(I),Jackie ,Speier,1,"Speier, Jackie ",D,TRUE
+342,CA,California,15,,Eric,Swalwell,1,"Swalwell, Eric",D,TRUE
+347,CA,California,16,(I),Jim,Costa,1,"Costa, Jim",D,TRUE
+354,CA,California,17,(I),Mike ,Honda,1,"Honda, Mike ",D,TRUE
+359,CA,California,18,(I),Anna G.,Eshoo,1,"Eshoo, Anna G.",D,TRUE
+365,CA,California,19,(I),Zoe ,Lofgren,1,"Lofgren, Zoe ",D,TRUE
+371,CA,California,20,(I),Sam,Farr,1,"Farr, Sam",D,TRUE
+380,CA,California,21,,David G.,Valadao,1,"Valadao, David G.",R,TRUE
+385,CA,California,22,(I),Devin G.,Nunes,1,"Nunes, Devin G.",R,TRUE
+389,CA,California,23,(I),Kevin ,McCarthy,1,"McCarthy, Kevin ",R,TRUE
+394,CA,California,24,(I),Lois,Capps,1,"Capps, Lois",D,TRUE
+400,CA,California,25,(I),"Howard P. ""Buck""",McKeon,1,"McKeon, Howard P. ""Buck""",R,TRUE
+406,CA,California,26,,Julia ,Brownley,1,"Brownley, Julia ",D,TRUE
+414,CA,California,27,(I),Judy ,Chu,1,"Chu, Judy ",D,TRUE
+419,CA,California,28,(I),Adam,Schiff,1,"Schiff, Adam",D,TRUE
+428,CA,California,29,,Tony ,Cárdenas,1,"Cárdenas, Tony ",D,TRUE
+433,CA,California,30,(I),Brad,Sherman,1,"Sherman, Brad",D,TRUE
+442,CA,California,31,(I),Gary G. ,Miller,1,"Miller, Gary G. ",R,TRUE
+450,CA,California,32,(I),Grace F.,Napolitano,1,"Napolitano, Grace F.",D,TRUE
+455,CA,California,33,(I),Henry A. ,Waxman,1,"Waxman, Henry A. ",D,TRUE
+465,CA,California,34,(I),Xavier ,Becerra,1,"Becerra, Xavier ",D,TRUE
+470,CA,California,35,,Gloria Negrete,McLeod,1,"McLeod, Gloria Negrete",D,TRUE
+475,CA,California,36,,Raul ,Ruiz,1,"Ruiz, Raul ",D,TRUE
+479,CA,California,37,(I),Karen R.,Bass,1,"Bass, Karen R.",D,TRUE
+485,CA,California,38,(I),Linda T.,Sánchez,1,"Sánchez, Linda T.",D,TRUE
+490,CA,California,39,(I),Ed ,Royce,1,"Royce, Ed ",R,TRUE
+495,CA,California,40,(I),Lucille ,Roybal-Allard,1,"Roybal-Allard, Lucille ",D,TRUE
+499,CA,California,41,,Mark,Takano,1,"Takano, Mark",D,TRUE
+506,CA,California,42,(I),Ken,Calvert,1,"Calvert, Ken",R,TRUE
+514,CA,California,43,(I),Maxine,Waters,1,"Waters, Maxine",D,TRUE
+518,CA,California,44,(I),Janice,Hahn,1,"Hahn, Janice",D,TRUE
+522,CA,California,45,(I),John ,Campbell,1,"Campbell, John ",R,TRUE
+527,CA,California,46,(I),Loretta ,Sanchez,1,"Sanchez, Loretta ",D,TRUE
+534,CA,California,47,,Alan ,Lowenthal,1,"Lowenthal, Alan ",D,TRUE
+544,CA,California,48,(I),Dana,Rohrabacher,1,"Rohrabacher, Dana",R,TRUE
+549,CA,California,49,(I),Darrell,Issa,1,"Issa, Darrell",R,TRUE
+555,CA,California,50,(I),Duncan D. ,Hunter,1,"Hunter, Duncan D. ",R,TRUE
+562,CA,California,51,,Juan,Vargas,1,"Vargas, Juan",D,TRUE
+571,CA,California,52,,Scott,Peters,1,"Peters, Scott",D,TRUE
+583,CA,California,53,(I),Susan A.,Davis,1,"Davis, Susan A.",D,TRUE
+619,CO,Colorado,1,(I),Diana,DeGette,1,"DeGette, Diana",D,TRUE
+629,CO,Colorado,2,(I),Jared,Polis,1,"Polis, Jared",D,TRUE
+638,CO,Colorado,3,(I),Scott R.,Tipton,1,"Tipton, Scott R.",R,TRUE
+649,CO,Colorado,4,(I),Cory,Gardner,1,"Gardner, Cory",R,TRUE
+659,CO,Colorado,5,(I),Doug,Lamborn,1,"Lamborn, Doug",R,TRUE
+670,CO,Colorado,6,(I),Mike,Coffman,1,"Coffman, Mike",R,TRUE
+678,CO,Colorado,7,(I),Ed,Perlmutter,1,"Perlmutter, Ed",D,TRUE
+690,CT,Connecticut,1,(I),John B.,Larson,1,"Larson, John B.",D,TRUE
+698,CT,Connecticut,2,(I),Joe ,Courtney,1,"Courtney, Joe ",D,TRUE
+709,CT,Connecticut,3,(I),Rosa L.,DeLauro,1,"DeLauro, Rosa L.",D,TRUE
+717,CT,Connecticut,4,(I),Jim,Himes,1,"Himes, Jim",D,TRUE
+726,CT,Connecticut,5,,Elizabeth,Esty,1,"Esty, Elizabeth",D,TRUE
+767,DE,Delaware,0,(I),"John C., Jr.",Carney,1,"Carney, John C., Jr.",D,TRUE
+803,FL,Florida,1,(I),Jeff,Miller,1,"Miller, Jeff",R,TRUE
+809,FL,Florida,2,(I),Steve,Southerland,1,"Southerland, Steve",R,TRUE
+818,FL,Florida,3,,Ted,Yoho,1,"Yoho, Ted",R,TRUE
+827,FL,Florida,4,(I),Ander,Crenshaw,1,"Crenshaw, Ander",R,TRUE
+835,FL,Florida,5,(I),Corrine ,Brown,1,"Brown, Corrine ",D,TRUE
+841,FL,Florida,6,,Ron,Desantis,1,"Desantis, Ron",R,TRUE
+854,FL,Florida,7,(I),John ,Mica,1,"Mica, John ",R,TRUE
+863,FL,Florida,8,(I),Bill ,Posey,1,"Posey, Bill ",R,TRUE
+868,FL,Florida,9,,Alan ,Grayson,1,"Grayson, Alan ",D,TRUE
+878,FL,Florida,10,(I),Daniel ,Webster,1,"Webster, Daniel ",R,TRUE
+883,FL,Florida,11,(I),"Richard B. ""Rich""",Nugent,1,"Nugent, Richard B. ""Rich""",R,TRUE
+887,FL,Florida,12,(I),Gus Michael,Bilirakis,1,"Bilirakis, Gus Michael",R,TRUE
+893,FL,Florida,13,(I),C.W . Bill,Young,1,"Young, C.W . Bill",R,TRUE
+900,FL,Florida,14,(I),Kathy ,Castor,1,"Castor, Kathy ",D,TRUE
+907,FL,Florida,15,(I),Dennis,Ross,1,"Ross, Dennis",R,TRUE
+910,FL,Florida,16,(I),Vern,Buchanan,1,"Buchanan, Vern",R,TRUE
+914,FL,Florida,17,(I),Tom,Rooney,1,"Rooney, Tom",R,TRUE
+921,FL,Florida,18,,Patrick ,Murphy,1,"Murphy, Patrick ",D,TRUE
+932,FL,Florida,19,,Trey,Radel,1,"Radel, Trey",R,TRUE
+943,FL,Florida,20,(I),Alcee L.,Hastings,1,"Hastings, Alcee L.",D,TRUE
+948,FL,Florida,21,(I),Ted ,Deutch,1,"Deutch, Ted ",D,TRUE
+953,FL,Florida,22,,Lois ,Frankel,1,"Frankel, Lois ",D,TRUE
+959,FL,Florida,23,(I),Debbie,Wasserman Schultz,1,"Wasserman Schultz, Debbie",D,TRUE
+969,FL,Florida,24,(I),Frederica S.,Wilson,1,"Wilson, Frederica S.",D,TRUE
+974,FL,Florida,25,(I),Mario ,Diaz-Balart,1,"Diaz-Balart, Mario ",R,TRUE
+979,FL,Florida,26,,Joe,Garcia,1,"Garcia, Joe",D,TRUE
+989,FL,Florida,27,(I),Ileana,Ros-Lehtinen,1,"Ros-Lehtinen, Ileana",R,TRUE
+1014,GA,Georgia,1,(I),Jack ,Kingston,1,"Kingston, Jack ",R,TRUE
+1021,GA,Georgia,2,(I),Sanford,Bishop,1,"Bishop, Sanford",D,TRUE
+1029,GA,Georgia,3,(I),Lynn,Westmoreland,1,"Westmoreland, Lynn",R,TRUE
+1036,GA,Georgia,4,(I),"Henry C. ""Hank""",Johnson,1,"Johnson, Henry C. ""Hank""",D,TRUE
+1047,GA,Georgia,5,(I),John,Lewis,1,"Lewis, John",D,TRUE
+1056,GA,Georgia,6,(I),Tom ,Price,1,"Price, Tom ",R,TRUE
+1063,GA,Georgia,7,(I),Rob,Woodall,1,"Woodall, Rob",R,TRUE
+1070,GA,Georgia,8,(I),Austin,Scott,1,"Scott, Austin",R,TRUE
+1074,GA,Georgia,9,,Doug,Collins,1,"Collins, Doug",R,TRUE
+1082,GA,Georgia,10,(I),Paul C.,Broun,1,"Broun, Paul C.",R,TRUE
+1088,GA,Georgia,11,(I),Phil,Gingrey,1,"Gingrey, Phil",R,TRUE
+1097,GA,Georgia,12,(I),John,Barrow,1,"Barrow, John",D,TRUE
+1106,GA,Georgia,13,(I),David,Scott,1,"Scott, David",D,TRUE
+1112,GA,Georgia,14,(I),Tom ,Graves,1,"Graves, Tom ",R,TRUE
+1136,HI,Hawaii,1,(I),Colleen W.,Hanabusa,1,"Hanabusa, Colleen W.",D,TRUE
+1145,HI,Hawaii,2,,Tulsi,Gabbard,1,"Gabbard, Tulsi",D,TRUE
+1176,ID,Idaho,1,(I),Raul R.,Labrador,1,"Labrador, Raul R.",R,TRUE
+1186,ID,Idaho,2,(I),Mike,Simpson,1,"Simpson, Mike",R,TRUE
+1197,IL,Illinois,1,(I),Bobby L.,Rush,1,"Rush, Bobby L.",D,TRUE
+1211,IL,Illinois,2,(I),"Jesse L., Jr.",Jackson,1,"Jackson, Jesse L., Jr.",D,TRUE
+1221,IL,Illinois,3,(I),Daniel William,Lipinski,1,"Lipinski, Daniel William",D,TRUE
+1231,IL,Illinois,4,(I),Luis V.,Gutierrez,1,"Gutierrez, Luis V.",D,TRUE
+1239,IL,Illinois,5,(I),Mike,Quigley,1,"Quigley, Mike",D,TRUE
+1246,IL,Illinois,6,(I),Peter J.,Roskam,1,"Roskam, Peter J.",R,TRUE
+1254,IL,Illinois,7,(I),Danny K.,Davis,1,"Davis, Danny K.",D,TRUE
+1263,IL,Illinois,8,,Tammy,Duckworth,1,"Duckworth, Tammy",D,TRUE
+1271,IL,Illinois,9,(I),Janice D.,Schakowsky,1,"Schakowsky, Janice D.",D,TRUE
+1280,IL,Illinois,10,,Brad,Schneider,1,"Schneider, Brad",D,TRUE
+1290,IL,Illinois,11,,Bill,Foster,1,"Foster, Bill",D,TRUE
+1300,IL,Illinois,12,,William L.,Enyart,1,"Enyart, William L. #",D,TRUE
+1313,IL,Illinois,13,,Rodney,Davis,1,"Davis, Rodney #",R,TRUE
+1324,IL,Illinois,14,(I),Randy M.,Hultgren,1,"Hultgren, Randy M.",R,TRUE
+1332,IL,Illinois,15,(I),John M.,Shimkus,1,"Shimkus, John M.",R,TRUE
+1338,IL,Illinois,16,(I),Adam,Kinzinger,1,"Kinzinger, Adam",R,TRUE
+1344,IL,Illinois,17,,Cheri,Bustos,1,"Bustos, Cheri",D,TRUE
+1354,IL,Illinois,18,(I),Aaron,Schock,1,"Schock, Aaron",R,TRUE
+1364,IN,Indiana,1,(I),Peter J. ,Visclosky,1,"Visclosky, Peter J. ",D,TRUE
+1371,IN,Indiana,2,,Jackie,Walorski,1,"Walorski, Jackie",R,TRUE
+1381,IN,Indiana,3,(I),Marlin A. ,Stutzman,1,"Stutzman, Marlin A. ",R,TRUE
+1392,IN,Indiana,4,(I),Todd,Rokita,1,"Rokita, Todd",R,TRUE
+1400,IN,Indiana,5,,Susan ,Brooks,1,"Brooks, Susan ",R,TRUE
+1415,IN,Indiana,6,,Luke,Messer,1,"Messer, Luke",R,TRUE
+1433,IN,Indiana,7,(I),Andre D. ,Carson,1,"Carson, Andre D. ",D,TRUE
+1448,IN,Indiana,8,(I),Larry D. ,Bucshon,1,"Bucshon, Larry D. ",R,TRUE
+1458,IN,Indiana,9,(I),Todd,Young,1,"Young, Todd",R,TRUE
+1481,IA,Iowa,1,(I),Bruce ,Braley,1,"Braley, Bruce ",D,TRUE
+1493,IA,Iowa,2,(I),Dave ,Loebsack,1,"Loebsack, Dave ",D,TRUE
+1505,IA,Iowa,3,(I),Tom ,Latham,1,"Latham, Tom ",R,TRUE
+1516,IA,Iowa,4,(I),Steve,King,1,"King, Steve",R,TRUE
+1529,KS,Kansas,1,(I),Tim,Huelskamp,1,"Huelskamp, Tim",R,TRUE
+1533,KS,Kansas,2,(I),Lynn,Jenkins,1,"Jenkins, Lynn",R,TRUE
+1542,KS,Kansas,3,(I),Kevin,Yoder,1,"Yoder, Kevin",R,TRUE
+1547,KS,Kansas,4,(I),Mike,Pompeo,1,"Pompeo, Mike",R,TRUE
+1558,KY,Kentucky,1,(I),Edward ,Whitfield,1,"Whitfield, Edward ",R,TRUE
+1564,KY,Kentucky,2,(I),S. Brett,Guthrie,1,"Guthrie, S. Brett",R,TRUE
+1570,KY,Kentucky,3,(I),John A. ,Yarmuth,1,"Yarmuth, John A. ",D,TRUE
+1577,KY,Kentucky,04 - FULL TERM,,Thomas ,Massie,1,"Massie, Thomas ",R,TRUE
+1596,KY,Kentucky,5,(I),"Harold ""Hal"" ",Rogers,1,"Rogers, Harold ""Hal"" ",R,TRUE
+1602,KY,Kentucky,6,,"Garland ""Andy""",Barr,1,"Barr, Garland ""Andy""",R,TRUE
+1613,LA,Louisiana,1,(I),"""Steve""",Scalise,1,"Scalise, ""Steve""",R,TRUE
+1620,LA,Louisiana,2,(I),Cedric,Richmond,1,"Richmond, Cedric",D,TRUE
+1627,LA,Louisiana,3,(I),"Charles W., Jr.",Boustany,1,"Boustany, Charles W., Jr.",R,TRUE
+1634,LA,Louisiana,4,(I),John,Fleming,1,"Fleming, John",R,TRUE
+1638,LA,Louisiana,5,(I),Rodney ,Alexander,1,"Alexander, Rodney ",R,TRUE
+1643,LA,Louisiana,6,(I),"William ""Bill""",Cassidy,1,"Cassidy, William ""Bill""",R,TRUE
+1651,ME,Maine,1,(I),Chellie,Pingree,1,"Pingree, Chellie",D,TRUE
+1658,ME,Maine,2,(I),Michael H.,Michaud,1,"Michaud, Michael H.",D,TRUE
+1687,MD,Maryland,1,(I),Andy,Harris,1,"Harris, Andy",R,TRUE
+1699,MD,Maryland,2,(I),C. A. Dutch ,Ruppersberger,1,"Ruppersberger, C. A. Dutch ",D,TRUE
+1712,MD,Maryland,3,(I),John ,Sarbanes,1,"Sarbanes, John ",D,TRUE
+1724,MD,Maryland,4,(I),Donna F.,Edwards,1,"Edwards, Donna F.",D,TRUE
+1737,MD,Maryland,5,(I),Steny H. ,Hoyer,1,"Hoyer, Steny H. ",D,TRUE
+1749,MD,Maryland,6,,John ,Delaney,1,"Delaney, John ",D,TRUE
+1768,MD,Maryland,7,(I),Elijah,Cummings,1,"Cummings, Elijah",D,TRUE
+1779,MD,Maryland,8,(I),Chris ,Van Hollen,1,"Van Hollen, Chris ",D,TRUE
+1823,MA,Massachusetts,1,(I),Richard E.,Neal,1,"Neal, Richard E.",D,TRUE
+1835,MA,Massachusetts,2,(I),James P.,McGovern,1,"McGovern, James P.",D,TRUE
+1846,MA,Massachusetts,3,(I),Nicola S.,Tsongas,1,"Tsongas, Nicola S.",D,TRUE
+1858,MA,Massachusetts,4,,"Joseph P., III",Kennedy,1,"Kennedy, Joseph P., III",D,TRUE
+1874,MA,Massachusetts,5,(I),Edward J.,Markey,1,"Markey, Edward J.",D,TRUE
+1887,MA,Massachusetts,6,(I),John F.,Tierney,1,"Tierney, John F.",D,TRUE
+1899,MA,Massachusetts,7,(I),Michael E.,Capuano,1,"Capuano, Michael E.",D,TRUE
+1910,MA,Massachusetts,8,(I),Stephen F.,Lynch,1,"Lynch, Stephen F.",D,TRUE
+1922,MA,Massachusetts,9,(I),William Richard,Keating,1,"Keating, William Richard",D,TRUE
+1950,MI,Michigan,1,(I),Dan,Benishek,1,"Benishek, Dan",R,TRUE
+1958,MI,Michigan,2,(I),Bill,Huizenga,1,"Huizenga, Bill",R,TRUE
+1967,MI,Michigan,3,(I),Justin,Amash,1,"Amash, Justin",R,TRUE
+1976,MI,Michigan,4,(I),Dave,Camp,1,"Camp, Dave",R,TRUE
+1985,MI,Michigan,5,,Daniel T.,Kildee,1,"Kildee, Daniel T.",D,TRUE
+1994,MI,Michigan,6,(I),Fred,Upton,1,"Upton, Fred",R,TRUE
+2003,MI,Michigan,7,(I),Tim,Walberg,1,"Walberg, Tim",R,TRUE
+2013,MI,Michigan,8,(I),Mike,Rogers,2,"Rogers, Mike",R,TRUE
+2023,MI,Michigan,9,(I),Sander,Levin,1,"Levin, Sander",D,TRUE
+2033,MI,Michigan,10,(I),Candice S. ,Miller,1,"Miller, Candice S. ",R,TRUE
+2056,MI,Michigan,11 - UNEXPIRED TERM,,David A.,Curson,1,"Curson, David A.",D,TRUE
+2069,MI,Michigan,12,(I),John D. ,Dingell,1,"Dingell, John D. ",D,TRUE
+2079,MI,Michigan,13,(I),"John, Jr.",Conyers,1,"Conyers, John, Jr.",D,TRUE
+2091,MI,Michigan,14,(I),Gary,Peters,1,"Peters, Gary",D,TRUE
+2123,MN,Minnesota,1,(I),Tim,Walz,1,"Walz, Tim",D,TRUE
+2131,MN,Minnesota,2,(I),John,Kline,1,"Kline, John",R,TRUE
+2140,MN,Minnesota,3,(I),Erik,Paulsen,1,"Paulsen, Erik",R,TRUE
+2148,MN,Minnesota,4,(I),Betty,McCollum,1,"McCollum, Betty",D,TRUE
+2161,MN,Minnesota,5,(I),Keith,Ellison,1,"Ellison, Keith",D,TRUE
+2171,MN,Minnesota,6,(I),Michele,Bachmann,1,"Bachmann, Michele",R,TRUE
+2182,MN,Minnesota,7,(I),Collin C.,Peterson,1,"Peterson, Collin C.",D,TRUE
+2188,MN,Minnesota,8,,Richard,Nolan,1,"Nolan, Richard",D,TRUE
+2220,MS,Mississippi,1,(I),Alan,Nunnelee,1,"Nunnelee, Alan",R,TRUE
+2231,MS,Mississippi,2,(I),Bennie G.,Thompson,1,"Thompson, Bennie G.",D,TRUE
+2240,MS,Mississippi,3,(I),Gregg,Harper,1,"Harper, Gregg",R,TRUE
+2248,MS,Mississippi,4,(I),Steven M.,Palazzo,1,"Palazzo, Steven M.",R,TRUE
+2275,MO,Missouri ,1,(I),Lacy,Clay,1,"Clay, Lacy",D,TRUE
+2286,MO,Missouri ,2,,Ann,Wagner,1,"Wagner, Ann",R,TRUE
+2302,MO,Missouri ,3,(I),Blaine,Luetkemeyer,1,"Luetkemeyer, Blaine",R,TRUE
+2310,MO,Missouri ,4,(I),Vicky,Hartzler,1,"Hartzler, Vicky",R,TRUE
+2322,MO,Missouri ,5,(I),"Emanuel, II",Cleaver,1,"Cleaver, Emanuel, II",D,TRUE
+2334,MO,Missouri ,6,(I),Sam,Graves,1,"Graves, Sam",R,TRUE
+2347,MO,Missouri ,7,(I),Billy,Long,1,"Long, Billy",R,TRUE
+2358,MO,Missouri ,8,(I),Jo Ann,Emerson,1,"Emerson, Jo Ann",R,TRUE
+2391,MT,Montana,0,,Steve,Daines,1,"Daines, Steve",R,TRUE
+2417,NE,Nebraska,1,(I),Jeff,Fortenberry,1,"Fortenberry, Jeff",R,TRUE
+2433,NE,Nebraska,2,(I),Lee,Terry,1,"Terry, Lee",R,TRUE
+2453,NE,Nebraska,3,(I),Adrian,Smith,1,"Smith, Adrian",R,TRUE
+2496,NV,Nevada,1,,Dina,Titus,1,"Titus, Dina",D,TRUE
+2507,NV,Nevada,2,(I),Mark E.,Amodei,1,"Amodei, Mark E.",R,TRUE
+2516,NV,Nevada,3,(I),Joe,Heck,1,"Heck, Joe",R,TRUE
+2530,NV,Nevada,4,,Steven A. ,Horsford,1,"Horsford, Steven A. ",D,TRUE
+2566,NH,New Hampshire,1,,Carol ,Shea-Porter,1,"Shea-Porter, Carol ",D,TRUE
+2584,NH,New Hampshire,2,,Ann McLane,Kuster,1,"Kuster, Ann McLane",D,TRUE
+2607,NJ,New Jersey,1,(I),Robert E.,Andrews,1,"Andrews, Robert E.",D,TRUE
+2616,NJ,New Jersey,2,(I),Frank A.,LoBiondo,1,"LoBiondo, Frank A.",R,TRUE
+2629,NJ,New Jersey,3,(I),Jon,Runyan,1,"Runyan, Jon",R,TRUE
+2640,NJ,New Jersey,4,(I),Christopher H.,Smith,1,"Smith, Christopher H.",R,TRUE
+2648,NJ,New Jersey,5,(I),Scott,Garrett,1,"Garrett, Scott",R,TRUE
+2659,NJ,New Jersey,6,(I),"Frank, Jr.",Pallone,1,"Pallone, Frank, Jr.",D,TRUE
+2670,NJ,New Jersey,7,(I),Leonard,Lance,1,"Lance, Leonard",R,TRUE
+2679,NJ,New Jersey,8,(I),Albio,Sires,1,"Sires, Albio",D,TRUE
+2689,NJ,New Jersey,9,(I),"Bill, Jr.",Pascrell,1,"Pascrell, Bill, Jr.",D,TRUE
+2713,NJ,New Jersey,10 - UNEXPIRED TERM,,"Donald M., Jr.",Payne,1,"Payne, Donald M., Jr.",D,TRUE
+2720,NJ,New Jersey,11,(I),Rodney P.,Frelinghuysen,1,"Frelinghuysen, Rodney P.",R,TRUE
+2727,NJ,New Jersey,12,(I),Rush,Holt,1,"Holt, Rush",D,TRUE
+2756,NM,New Mexico,1,,Michelle,Lujan Grisham,1,"Lujan Grisham, Michelle",D,TRUE
+2765,NM,New Mexico,2,(I),Steve,Pearce,1,"Pearce, Steve",R,TRUE
+2772,NM,New Mexico,3,(I),Ben R.,Lujan,1,"Lujan, Ben R.",D,TRUE
+2792,NY,New York,1,(I),Timothy H.,Bishop,1,"Bishop, Timothy H.",D,TRUE
+2804,NY,New York,2,(I),Peter T.,King,1,"King, Peter T.",R,TRUE
+2814,NY,New York,3,(I),Steve J.,Israel,1,"Israel, Steve J.",D,TRUE
+2826,NY,New York,4,(I),Carolyn,McCarthy,1,"McCarthy, Carolyn",D,TRUE
+2842,NY,New York,5,(I),Gregory W.,Meeks,1,"Meeks, Gregory W.",D,TRUE
+2852,NY,New York,6,,Grace,Meng,1,"Meng, Grace",D,TRUE
+2867,NY,New York,7,(I),Nydia M.,Velazquez,1,"Velazquez, Nydia M.",D,TRUE
+2878,NY,New York,8,,Hakeem S.,Jeffries,1,"Jeffries, Hakeem S.",D,TRUE
+2890,NY,New York,9,(I),Yvette D.,Clarke,1,"Clarke, Yvette D.",D,TRUE
+2902,NY,New York,10,(I),Jerrold L.,Nadler,1,"Nadler, Jerrold L.",D,TRUE
+2911,NY,New York,11,(I),Michael G.,Grimm,1,"Grimm, Michael G.",R,TRUE
+2921,NY,New York,12,(I),Carolyn B.,Maloney,1,"Maloney, Carolyn B.",D,TRUE
+2931,NY,New York,13,(I),Charles B.,Rangel,1,"Rangel, Charles B.",D,TRUE
+2944,NY,New York,14,(I),Joseph,Crowley,1,"Crowley, Joseph",D,TRUE
+2954,NY,New York,15,(I),Jose E.,Serrano,1,"Serrano, Jose E.",D,TRUE
+2963,NY,New York,16,(I),Eliot L.,Engel,1,"Engel, Eliot L.",D,TRUE
+2973,NY,New York,17,(I),Nita M.,Lowey,1,"Lowey, Nita M.",D,TRUE
+2983,NY,New York,18,,Sean Patrick,Maloney,1,"Maloney, Sean Patrick",D,TRUE
+2998,NY,New York,19,(I),Christopher P.,Gibson,1,"Gibson, Christopher P.",R,TRUE
+3010,NY,New York,20,(I),Paul D.,Tonko,1,"Tonko, Paul D.",D,TRUE
+3020,NY,New York,21,(I),William L.,Owens,1,"Owens, William L.",D,TRUE
+3033,NY,New York,22,(I),Richard L.,Hanna,1,"Hanna, Richard L.",R,TRUE
+3042,NY,New York,23,(I),"Thomas W., II",Reed,1,"Reed, Thomas W., II",R,TRUE
+3055,NY,New York,24,,Daniel B.,Maffei,1,"Maffei, Daniel B.",D,TRUE
+3066,NY,New York,25,(I),Louise M.,Slaughter,1,"Slaughter, Louise M.",D,TRUE
+3076,NY,New York,26,(I),Brian,Higgins,1,"Higgins, Brian",D,TRUE
+3086,NY,New York,27,,Chris,Collins,1,"Collins, Chris",R,TRUE
+3116,NC,North Carolina,1,(I),G. K .,Butterfield,1,"Butterfield, G. K .",D,TRUE
+3123,NC,North Carolina,2,(I),Renee,Ellmers,1,"Ellmers, Renee",R,TRUE
+3135,NC,North Carolina,3,(I),Walter B.,Jones,1,"Jones, Walter B.",R,TRUE
+3141,NC,North Carolina,4,(I),David,Price,1,"Price, David",D,TRUE
+3148,NC,North Carolina,5,(I),Virginia ,Foxx,1,"Foxx, Virginia ",R  ,TRUE
+3154,NC,North Carolina,6,(I),Howard,Coble,1,"Coble, Howard",R,TRUE
+3161,NC,North Carolina,7,(I),Mike ,McIntyre,1,"McIntyre, Mike ",D  ,TRUE
+3168,NC,North Carolina,8,,Richard ,Hudson,1,"Hudson, Richard ",R  ,TRUE
+3181,NC,North Carolina,9,,Robert ,Pittenger,1,"Pittenger, Robert ",R,TRUE
+3197,NC,North Carolina,10,(I),Patrick ,McHenry,1,"McHenry, Patrick ",R,TRUE
+3207,NC,North Carolina,11,,Mark,Meadows,1,"Meadows, Mark",R,TRUE
+3222,NC,North Carolina,12,(I),Mel,Watt,1,"Watt, Mel",D,TRUE
+3228,NC,North Carolina,13,,George ,Holding,1,"Holding, George ",R  ,TRUE
+3240,ND,North Dakota,0,,Kevin,Cramer,1,"Cramer, Kevin",R,TRUE
+3311,OH,Ohio,1,(I),Steve,Chabot,1,"Chabot, Steve",R,TRUE
+3323,OH,Ohio,2,,Brad,Wenstrup,1,"Wenstrup, Brad",R,TRUE
+3334,OH,Ohio,3,,Joyce,Beatty,1,"Beatty, Joyce",D,TRUE
+3349,OH,Ohio,4,(I),Jim,Jordan,1,"Jordan, Jim",R,TRUE
+3357,OH,Ohio,5,(I),Bob,Latta,1,"Latta, Bob",R,TRUE
+3366,OH,Ohio,6,(I),Bill,Johnson,1,"Johnson, Bill",R,TRUE
+3374,OH,Ohio,7,(I),Bob,Gibbs,1,"Gibbs, Bob",R,TRUE
+3381,OH,Ohio,8,(I),John A.,Boehner,1,"Boehner, John A.",R,TRUE
+3387,OH,Ohio,9,(I),Marcy,Kaptur,1,"Kaptur, Marcy",D,TRUE
+3398,OH,Ohio,10,(I),Mike,Turner,1,"Turner, Mike",R,TRUE
+3413,OH,Ohio,11,(I),Marcia L.,Fudge,1,"Fudge, Marcia L.",D,TRUE
+3419,OH,Ohio,12,(I),Pat,Tiberi,1,"Tiberi, Pat",R,TRUE
+3427,OH,Ohio,13,(I),Tim,Ryan,1,"Ryan, Tim",D,TRUE
+3433,OH,Ohio,14,,David P.,Joyce,1,"Joyce, David P.  #",R,TRUE
+3447,OH,Ohio,15,(I),Steve,Stivers,1,"Stivers, Steve",R,TRUE
+3455,OH,Ohio,16,(I),Jim,Renacci,1,"Renacci, Jim",R,TRUE
+3483,OK,Oklahoma,1,,Jim,Brindenstine,1,"Brindenstine, Jim",R,TRUE
+3490,OK,Oklahoma,2,,Markwayne,Mullin,1,"Mullin, Markwayne",R,TRUE
+3506,OK,Oklahoma,3,(I),Frank D.,Lucas,1,"Lucas, Frank D.",R,TRUE
+3515,OK,Oklahoma,4,(I),Tom,Cole,1,"Cole, Tom",R,TRUE
+3524,OK,Oklahoma,5,(I),James,Lankford,1,"Lankford, James",R,TRUE
+3533,OR,Oregon,1,(I),Suzanne,Bonamici,1,"Bonamici, Suzanne",D,TRUE
+3545,OR,Oregon,2,(I),Greg ,Walden,1,"Walden, Greg ",R,TRUE
+3556,OR,Oregon,3,(I),Earl ,Blumenauer,1,"Blumenauer, Earl ",D,TRUE
+3568,OR,Oregon,4,(I),Peter A.,DeFazio,1,"DeFazio, Peter A.",D,TRUE
+3579,OR,Oregon,5,(I),Kurt ,Schrader,1,"Schrader, Kurt ",D,TRUE
+3594,PA,Pennsylvania,1,(I),Robert A.,Brady,1,"Brady, Robert A.",D,TRUE
+3602,PA,Pennsylvania,2,(I),Chaka,Fattah,1,"Fattah, Chaka",D,TRUE
+3611,PA,Pennsylvania,3,(I),Mike,Kelly,1,"Kelly, Mike",R,TRUE
+3620,PA,Pennsylvania,4,,Scott,Perry,1,"Perry, Scott",R,TRUE
+3637,PA,Pennsylvania,5,(I),Glenn,Thompson,1,"Thompson, Glenn",R,TRUE
+3645,PA,Pennsylvania,6,(I),Jim,Gerlach,1,"Gerlach, Jim",R,TRUE
+3653,PA,Pennsylvania,7,(I),Patrick L.,Meehan,1,"Meehan, Patrick L.",R,TRUE
+3661,PA,Pennsylvania,8,(I),Mike,Fitzpatrick,1,"Fitzpatrick, Mike",R,TRUE
+3669,PA,Pennsylvania,9,(I),Bill,Shuster,1,"Shuster, Bill",R,TRUE
+3677,PA,Pennsylvania,10,(I),Thomas A.,Marino,1,"Marino, Thomas A.",R,TRUE
+3685,PA,Pennsylvania,11,(I),Lou,Barletta,1,"Barletta, Lou",R,TRUE
+3694,PA,Pennsylvania,12,,Keith J.,Rothfus,1,"Rothfus, Keith J.",R,TRUE
+3703,PA,Pennsylvania,13,(I),Allyson Y.,Schwartz,1,"Schwartz, Allyson Y.",D,TRUE
+3711,PA,Pennsylvania,14,(I),Mike,Doyle,1,"Doyle, Mike",D,TRUE
+3720,PA,Pennsylvania,15,(I),Charles W.,Dent,1,"Dent, Charles W.",R,TRUE
+3729,PA,Pennsylvania,16,(I),Joseph R.,Pitts,1,"Pitts, Joseph R.",R,TRUE
+3739,PA,Pennsylvania,17,,Matthew A.,Cartwright,1,"Cartwright, Matthew A.",D,TRUE
+3748,PA,Pennsylvania,18,(I),Tim,Murphy,1,"Murphy, Tim",R,TRUE
+3788,RI,Rhode Island,1,(I),David N.,Cicilline,1,"Cicilline, David N.",D,TRUE
+3799,RI,Rhode Island,2,(I),James R.,Langevin,1,"Langevin, James R.",D,TRUE
+3824,SC,South Carolina,1,(I),Tim,Scott,1,"Scott, Tim",R,TRUE
+3831,SC,South Carolina,2,(I),Joe,Wilson,1,"Wilson, Joe",R,TRUE
+3837,SC,South Carolina,3,(I),Jeff,Duncan,1,"Duncan, Jeff",R,TRUE
+3844,SC,South Carolina,4,(I),Trey,Gowdy,1,"Gowdy, Trey",R,TRUE
+3853,SC,South Carolina,5,(I),Mick,Mulvaney,1,"Mulvaney, Mick",R,TRUE
+3859,SC,South Carolina,6,(I),"James E. ""Jim""",Clyburn,1,"Clyburn, James E. ""Jim""",D,TRUE
+3864,SC,South Carolina,7,,Tom,Rice,1,"Rice, Tom",R,TRUE
+3888,SD,South Dakota,0,(I),Kristi,Noem,1,"Noem, Kristi",R,TRUE
+3897,TN,Tennessee,1,(I),Phil,Roe,1,"Roe, Phil",R,TRUE
+3906,TN,Tennessee,2,(I),"John J., Jr.",Duncan,1,"Duncan, John J., Jr.",R,TRUE
+3917,TN,Tennessee,3,(I),Chuck,Fleischmann,1,"Fleischmann, Chuck",R,TRUE
+3930,TN,Tennessee,4,(I),Scott,DesJarlais,1,"DesJarlais, Scott",R,TRUE
+3937,TN,Tennessee,5,(I),Jim,Cooper,1,"Cooper, Jim",D,TRUE
+3949,TN,Tennessee,6,(I),Diane,Black,1,"Black, Diane",R,TRUE
+3959,TN,Tennessee,7,(I),Marsha,Blackburn,1,"Blackburn, Marsha",R,TRUE
+3969,TN,Tennessee,8,(I),Stephen Lee,Fincher,1,"Fincher, Stephen Lee",R,TRUE
+3980,TN,Tennessee,9,(I),Steve,Cohen,1,"Cohen, Steve",D,TRUE
+4028,TX,Texas,1,(I),Louie,Gohmert,1,"Gohmert, Louie",R,TRUE
+4035,TX,Texas,2,(I),Ted,Poe,1,"Poe, Ted",R,TRUE
+4043,TX,Texas,3,(I),Sam,Johnson,1,"Johnson, Sam",R,TRUE
+4049,TX,Texas,4,(I),Ralph M.,Hall,1,"Hall, Ralph M.",R,TRUE
+4059,TX,Texas,5,(I),Jeb,Hensarling,1,"Hensarling, Jeb",R,TRUE
+4068,TX,Texas,6,(I),Joe L.,Barton,1,"Barton, Joe L.",R,TRUE
+4081,TX,Texas,7,(I),John,Culberson,1,"Culberson, John",R,TRUE
+4094,TX,Texas,8,(I),Kevin,Brady,1,"Brady, Kevin",R,TRUE
+4102,TX,Texas,9,(I),Al,Green,1,"Green, Al",D,TRUE
+4110,TX,Texas,10,(I),Michael,McCaul,1,"McCaul, Michael",R,TRUE
+4119,TX,Texas,11,(I),Mike,Conaway,1,"Conaway, Mike",R,TRUE
+4128,TX,Texas,12,(I),Kay,Granger,1,"Granger, Kay",R,TRUE
+4136,TX,Texas,13,(I),Mac,Thornberry,1,"Thornberry, Mac",R,TRUE
+4143,TX,Texas,14,,Randy,Weber,1,"Weber, Randy",R,TRUE
+4161,TX,Texas,15,(I),Rubén,Hinojosa,1,"Hinojosa, Rubén",D,TRUE
+4175,TX,Texas,16,,Beto,O'Rourke,1,"O'Rourke, Beto",D,TRUE
+4187,TX,Texas,17,(I),Bill,Flores,1,"Flores, Bill",R,TRUE
+4193,TX,Texas,18,(I),Sheila,Jackson Lee,1,"Jackson Lee, Sheila",D,TRUE
+4200,TX,Texas,19,(I),Randy,Neugebauer,1,"Neugebauer, Randy",R,TRUE
+4206,TX,Texas,20,,Joaquin,Castro,1,"Castro, Joaquin",D,TRUE
+4214,TX,Texas,21,(I),Lamar,Smith,1,"Smith, Lamar",R,TRUE
+4224,TX,Texas,22,(I),Pete,Olson,1,"Olson, Pete",R,TRUE
+4234,TX,Texas,23,,Pete P.,Gallego,1,"Gallego, Pete P.",D,TRUE
+4244,TX,Texas,24,(I),Kenny E.,Marchant,1,"Marchant, Kenny E.",R,TRUE
+4252,TX,Texas,25,,Roger,Williams,1,"Williams, Roger",R,TRUE
+4270,TX,Texas,26,(I),Michael,Burgess,1,"Burgess, Michael",R,TRUE
+4277,TX,Texas,27,(I),Blake,Farenthold,1,"Farenthold, Blake",R,TRUE
+4291,TX,Texas,28,(I),Henry,Cuellar,1,"Cuellar, Henry",D,TRUE
+4299,TX,Texas,29,(I),Gene,Green,1,"Green, Gene",D,TRUE
+4305,TX,Texas,30,(I),Eddie Bernice,Johnson,1,"Johnson, Eddie Bernice",D,TRUE
+4314,TX,Texas,31,(I),John R.,Carter,1,"Carter, John R.",R,TRUE
+4322,TX,Texas,32,(I),Pete,Sessions,1,"Sessions, Pete",R,TRUE
+4330,TX,Texas,33,,Marc,Veasey,1,"Veasey, Marc",D,TRUE
+4348,TX,Texas,34,,Filemon,Vela,1,"Vela, Filemon",D,TRUE
+4365,TX,Texas,35,(I),Lloyd,Doggett,1,"Doggett, Lloyd",D,TRUE
+4378,TX,Texas,36,,Steve,Stockman,1,"Stockman, Steve",R,TRUE
+4426,UT,Utah,1,(I),Rob,Bishop,1,"Bishop, Rob",R,TRUE
+4435,UT,Utah,2,,Chris,Stewart,1,"Stewart, Chris",R,TRUE
+4454,UT,Utah,3,(I),Jason,Chaffetz,1,"Chaffetz, Jason",R,TRUE
+4461,UT,Utah,4,(I),Jim,Matheson,1,"Matheson, Jim",D,TRUE
+4493,VT,Vermont,0,(I),Peter,Welch,1,"Welch, Peter",D,TRUE
+4548,VA,Virginia,1,(I),"Robert J. ""Rob""",Wittman,1,"Wittman, Robert J. ""Rob""",R,TRUE
+4554,VA,Virginia,2,(I),E. Scott,Rigell,1,"Rigell, E. Scott",R,TRUE
+4559,VA,Virginia,3,(I),"Robert C. ""Bobby""",Scott,1,"Scott, Robert C. ""Bobby""",D,TRUE
+4564,VA,Virginia,4,(I),J. Randy,Forbes,1,"Forbes, J. Randy",R,TRUE
+4573,VA,Virginia,5,(I),Robert,Hurt,1,"Hurt, Robert",R,TRUE
+4579,VA,Virginia,6,(I),"Robert W. ""Bob""",Goodlatte,1,"Goodlatte, Robert W. ""Bob""",R,TRUE
+4586,VA,Virginia,7,(I),Eric I.,Cantor,1,"Cantor, Eric I.",R,TRUE
+4593,VA,Virginia,8,(I),"James P. ""Jim,"" Jr.",Moran,1,"Moran, James P. ""Jim,"" Jr.",D,TRUE
+4602,VA,Virginia,9,(I),H. Morgan,Griffith,1,"Griffith, H. Morgan",R,TRUE
+4607,VA,Virginia,10,(I),Frank R.,Wolf,1,"Wolf, Frank R.",R,TRUE
+4613,VA,Virginia,11,(I),"Gerald E. ""Gerry""",Connolly,1,"Connolly, Gerald E. ""Gerry""",D,TRUE
+4636,WA,Washington,01 - FULL TERM,,Suzan,DelBene,1,"DelBene, Suzan",D,TRUE
+4658,WA,Washington,2,(I),Rick,Larsen,1,"Larsen, Rick",D,TRUE
+4666,WA,Washington,3,(I),Jaime Herrera,Beutler,1,"Beutler, Jaime Herrera",R,TRUE
+4671,WA,Washington,4,(I),Doc,Hastings,1,"Hastings, Doc",R,TRUE
+4677,WA,Washington,5,(I),Cathy McMorris,Rodgers,1,"Rodgers, Cathy McMorris",R,TRUE
+4683,WA,Washington,6,,Derek,Kilmer,1,"Kilmer, Derek",D,TRUE
+4692,WA,Washington,7,(I),Jim,McDermott,1,"McDermott, Jim",D,TRUE
+4701,WA,Washington,8,(I),Dave,Reichert,1,"Reichert, Dave",R,TRUE
+4709,WA,Washington,9,(I),Adam,Smith,1,"Smith, Adam",D,TRUE
+4716,WA,Washington,10,,Denny,Heck,1,"Heck, Denny",D,TRUE
+4737,WV,West Virginia,1,(I),David B.,McKinley,1,"McKinley, David B.",R,TRUE
+4743,WV,West Virginia,2,(I),Shelley Moore,Capito,1,"Capito, Shelley Moore",R,TRUE
+4753,WV,West Virginia,3,(I),"Nick J., II",Rahall,1,"Rahall, Nick J., II",D,TRUE
+4772,WI,Wisconsin,1,(I),Paul,Ryan,1,"Ryan, Paul",R,TRUE
+4786,WI,Wisconsin,2,,Mark  ,Pocan,1,"Pocan, Mark  ",D,TRUE
+4803,WI,Wisconsin,3,(I),Ron,Kind,1,"Kind, Ron",D,TRUE
+4816,WI,Wisconsin,4,(I),Gwen,Moore,1,"Moore, Gwen",D,TRUE
+4830,WI,Wisconsin,5,(I),"F. James, Jr.",Sensenbrenner,1,"Sensenbrenner, F. James, Jr.",R,TRUE
+4843,WI,Wisconsin,6,(I),Tom ,Petri,1,"Petri, Tom ",R,TRUE
+4857,WI,Wisconsin,7,(I),Sean,Duffy,1,"Duffy, Sean",R,TRUE
+4871,WI,Wisconsin,8,(I),Reid J.,Ribble,1,"Ribble, Reid J.",R,TRUE
+4906,WY,Wyoming,0,(I),Cynthia M.,Lummis,1,"Lummis, Cynthia M.",R,TRUE
