@@ -97,11 +97,11 @@ def main():
 
     if (args.latex):
         header = [['\\textbf{State}', '\\multicolumn{3}{c}{\\textbf{Single Member Districts}}',
-                   '\\multicolumn{3}{c}{\\textbf{Mixed Member Prop.}}'],
-                  ['', 'GOP', 'Dem', 'Badness', 'GOP', 'Dem', 'Badness']]
+                   '\\multicolumn{4}{c}{\\textbf{Mixed Member Prop.}}'],
+                  ['', 'GOP', 'Dem', 'Badness', 'GOP', 'Dem', 'Other', 'Badness']]
 
         data = []
-        total_seats = {'gop_old': 0, 'dem_old': 0, 'gop_prop': 0, 'dem_prop': 0}
+        total_seats = {'gop_old': 0, 'dem_old': 0, 'gop_prop': 0, 'dem_prop': 0, 'other_prop': 0}
         for s in states:
             state = states[s]
             vote_share = state.voteshare
@@ -122,12 +122,14 @@ def main():
             total_seats['dem_old'] += rep_dist[util.Party.DEM]
             total_seats['gop_prop'] += prop_dist[util.Party.GOP]
             total_seats['dem_prop'] += prop_dist[util.Party.DEM]
+            total_seats['other_prop'] += prop_dist[util.Party.OTHER]
 
             data.append([state.name,'{}'.format(rep_dist[util.Party.GOP]),
                                     '{}'.format(rep_dist[util.Party.DEM]),
                                     '{:.1f}\\%'.format(vote_badness(rep_share, vote_share)*100.0),
                                     '{}'.format(prop_dist[util.Party.GOP]),
                                     '{}'.format(prop_dist[util.Party.DEM]),
+                                    '{}'.format(prop_dist[util.Party.OTHER]),
                                     '{:.1f}\\%'.format(vote_badness(prop_share, vote_share)*100.0)])
 
 
@@ -137,14 +139,14 @@ def main():
                                         util.Party.DEM: total_seats['dem_old']/435.0},
                                     YEAR_DATA[year]['results'])*100.0),
 
-        str(total_seats['gop_prop']), str(total_seats['dem_prop']),
+        str(total_seats['gop_prop']), str(total_seats['dem_prop']), str(total_seats['other_prop']),
         '{:.1f}\\%'.format(vote_badness({util.Party.GOP: total_seats['gop_prop']/870.0,
                                         util.Party.DEM: total_seats['dem_prop']/870.0},
                                     YEAR_DATA[year]['results'])*100.0)]]
 
 
         with open("out/{}_table.tex".format(year), "w") as tfile: tfile.write(latex.table(header, data, footer, 8))
-        os.system('pdflatex out/test.tex')
+        #os.system('pdflatex out/test.tex')
 
 def vote_badness(rep_shares, vote_shares):
     dem_diff = rep_shares[util.Party.DEM] - vote_shares[util.Party.DEM]

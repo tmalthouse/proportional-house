@@ -38,25 +38,24 @@ class State(object):
 
     def calculate_prop(self):
         total_delegation = 2*self.delegation
-        self.prop_rep = {party: self.party_count(party) for party in list(util.Party)}
 
-        total = sum(self.prop_rep.values())
+        current_seats = {util.Party.DEM:0, util.Party.GOP:0, util.Party.OTHER:0}
+        for r in self.reps:
+            current_seats[r.party] += 1
 
-        entries = []
-        for n in range(1,self.delegation+2):
+        while (sum(current_seats.values()) < total_delegation):
+            quots = {}
             for p in list(util.Party):
-                if (self.voteshare[p]>VOTE_THRESHOLD):
-                    entries.append(((self.voteshare[p]*(1/n))/(self.prop_rep[p]+n), p))
+                quots[p] = self.voteshare[p]/(2*current_seats[p]+1)
 
-        entries.sort(key=itemgetter(0), reverse=True)
+            # Give one seat to the party with the largest vote-share
+            current_seats[max(quots.keys(), key=(lambda key: quots[key]))] += 1
+
+        self.prop_rep = current_seats
 
 
-        for i in entries:
-            party = i[1]
-            self.prop_rep[party] += 1
 
-            total = sum(self.prop_rep.values())
-            if (total>=total_delegation): break
+
 
 
     def check_prop(self):
